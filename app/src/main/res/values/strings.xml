@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GiayTheThao</string>
+    <string name="title_activity_thong_tin">Map</string>
+    <string name="noi_dung_lien_he_1">
+        AnsShoes.vn ra đời với tất cả niềm đam mê thương mại điện tử và giày dép của những người sáng lập.
+        Chúng tôi mong muốn mang đến cho khách hàng những đôi giày tốt nhất, giúp khách hàng luôn cảm thấy
+        tự tin vững bước theo đuổi niềm đam mê của bản thân để thành công vượt trội.
+    </string>
+    <string name="noi_dung_lien_he_2">
+        Hãy cùng đồng hành với AnsShoes.vn Sải bước đam mê nhé !
+    </string>
+    <string name="linkFacebook">
+        <a href="https://www.facebook.com/profile.php?id=100005794591130"> Liên hệ Facebook</a>
+    </string>
+</resources>
