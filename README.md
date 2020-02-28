@@ -1,6 +1,6 @@
 # <p align="center">Lập Trình Di Động</p>
 
-# Platform
+# Công cụ xây dựng chương trình
 - IDE: Android Studio 3.5.0.0
 - Database: MySQL
 
@@ -16,7 +16,7 @@ h. Hiển thị thông tin tài khoản khách hàng<br/>
 k. Chức năng đăng ký tài khoản khách hàng<br/>
 l. Chức năng cập nhật thông tin tài khoản khách hàng<br/>
 
-# View
+# Các màn hình
 #### 1. Trang chủ
 <p align="center">
 	<kbd>
