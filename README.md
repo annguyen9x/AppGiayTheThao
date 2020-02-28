@@ -1,4 +1,4 @@
-# <p align="center">Bài tập Lập Trình Di Động</p>
+# <p align="center">Lập Trình Di Động</p>
 
 # Platform
 - IDE: Android Studio 3.5.0.0
